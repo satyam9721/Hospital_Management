@@ -1,0 +1,6 @@
+Imp notes from this projects
+
+frontend and backend api instance name and react state name should be same.
+
+lastName (react) !=lastname (api)  (gives error in sending messages)
+firstname  ==firstname (no gives error)
